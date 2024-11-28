@@ -5,7 +5,7 @@ This application allows users to query address information based on a ZIP code (
 ## Layout
 <div align="center">
   <img src="./imagens/api_CEP1.png" alt="App Screenshot" width="400"/>
-  <img src="./imagens/api_CEP2.png.png" alt="App Screenshot" width="400"/>
+  <img src="./imagens/api_CEP2.png" alt="App Screenshot" width="400"/>
 </div>
 
 ## Technologies Used
